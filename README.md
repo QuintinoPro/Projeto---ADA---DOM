@@ -19,3 +19,10 @@ A data, na tela inicial, será a data atual do sistema e a hora será atualizada
 
 # Observações
 Para a persistência das tarefas, utilizaremos uma API, que poderá ser criada em: CrudCrud.
+
+# Elaborado pelo grupo:
+Diego Reis
+Lucas Quintino
+Nataly Rodrigues
+Thays Mendes
+Thiago Dias
